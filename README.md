@@ -15,3 +15,7 @@ https://github.com/apache/thrift/blob/master/lib/cpp/src/thrift/protocol/TCompac
 - TMoreCompactProtocol
     - Used in mobile
     - Inherit TCompactProtocol
+
+
+# ひとこと
+writeMessageEnd
