@@ -1,5 +1,5 @@
 # MoreCompactProtocol.py
-LineMoreCompactProtocol written in Python
+TMoreCompactProtocol written in Python
 
 
 # TMoreCompactProtocol
