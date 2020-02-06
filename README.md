@@ -11,7 +11,7 @@ https://github.com/apache/thrift/blob/master/lib/cpp/src/thrift/protocol/TCompac
 # information
 
 - LineThriftTransport
- - Instead of TMemoryBuffer
+    - Instead of TMemoryBuffer
 - TMoreCompactProtocol
- - Used in mobile
- - Inherit TCompactProtocol
+    - Used in mobile
+    - Inherit TCompactProtocol
